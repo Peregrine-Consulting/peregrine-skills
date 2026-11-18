@@ -1,0 +1,8 @@
+{
+  "name": "peregrine",
+  "version": "1.0.0",
+  "description": "Free skills for building an AI services business: pick a niche, find leads, audit AI visibility, build AI receptionists and setters, run speed-to-lead, cold email, Meta ads, proposals, onboarding and client reports. Built from real client work. MIT licensed.",
+  "author": { "name": "Peregrine", "url": "https://tryperegrine.com" },
+  "homepage": "https://tryperegrine.com",
+  "keywords": ["ai-agency", "voice-ai", "ai-receptionist", "speed-to-lead", "lead-generation", "cold-email", "ai-seo", "aeo", "meta-ads", "proposals", "client-onboarding", "local-business"]
+}

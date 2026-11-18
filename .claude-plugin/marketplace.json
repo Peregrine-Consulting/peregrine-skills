@@ -1,0 +1,13 @@
+{
+  "name": "peregrine-skills",
+  "owner": { "name": "Peregrine", "url": "https://tryperegrine.com" },
+  "plugins": [
+    {
+      "name": "peregrine",
+      "source": "./",
+      "description": "Free skills for building an AI services business: niche, leads, AI visibility, voice agents, speed-to-lead, setters, cold email, ads, proposals, onboarding, reports.",
+      "version": "1.0.0"
+    }
+  ],
+  "description": "Peregrine Skills: the playbook we run for clients, as skills for your AI agent. 15 skills, MIT licensed."
+}
