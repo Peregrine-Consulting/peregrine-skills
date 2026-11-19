@@ -62,11 +62,13 @@ Every skill works with no paid tools. Where an API makes the result much better 
 
 Nothing gets sent, called, published or spent without your OK.
 
-## Want it running every week?
+## New skills, as we release them
 
-The free skills do the work once. **Peregrine Partners** runs it every week: fresh leads in your niche, the CRM, the AI setter and a weekly call with the team that built these. Join the free Wednesday call: [tryperegrine.com/partner](https://tryperegrine.com/partner)
+We keep turning the work we do for clients into skills. Get each one the day it ships: [tryperegrine.com/skills](https://tryperegrine.com/skills)
 
-Want it done for you? [tryperegrine.com](https://tryperegrine.com)
+## Want help putting this to work?
+
+The free skills do the work once. If you want help running it in your business, or want our team to do it for you, [book a call with Danny](https://calendly.com/danny-tryperegrine/30min).
 
 ## Contributing
 
